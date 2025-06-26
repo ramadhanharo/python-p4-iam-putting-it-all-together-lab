@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from faker import Faker
 import flask
 import pytest
